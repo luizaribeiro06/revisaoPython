@@ -125,7 +125,6 @@ saldo = 20
 
 def extrato():
     for i in trans: # só quer o elemento da lista
-
         print(i)
     print(f"Saldo final: ", {saldo})
 
